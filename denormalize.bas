@@ -1,4 +1,4 @@
-Attribute VB_Name = "Modul1"
+Attribute VB_Name = "denormalizing utils"
 Sub denormalize()
 Attribute denormalize.VB_Description = "denormalizes"
 Attribute denormalize.VB_ProcData.VB_Invoke_Func = " \n14"
