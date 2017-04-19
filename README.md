@@ -31,3 +31,5 @@ The result should look like this:
 |John|3
 |Doe |4
 |Doe |5
+
+- To identify datasets that belong together the macro `SetKitID` checks whether the content of two cells in the selected column above each other have the same content and adds the same kit id to the column next to the selected one.
