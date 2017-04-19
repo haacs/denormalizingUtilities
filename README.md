@@ -1,4 +1,4 @@
-# denormalize
+# denormalizingUtilities
 MS Excel Visual Basic Macro Utilities
 
 Tested in MS Excel 2010
