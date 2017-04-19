@@ -1,6 +1,6 @@
 Attribute VB_Name = "denormalizingUtilities1"
 Sub denormalize()
-Attribute denormalize.VB_Description = "denormalizes"
+Attribute denormalize.VB_Description = "Utilities for denormalizing"
 Attribute denormalize.VB_ProcData.VB_Invoke_Func = " \n14"
 '
 ' denormalize Makro
@@ -96,7 +96,7 @@ Sub replaceLineBreak()
     Application.StatusBar = False
 End Sub
 
-Sub setKitId()
+Sub setKitID()
 '
 ' setKitId Makro
 ' sets the same kit_id for rows, where the column on its right
